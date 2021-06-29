@@ -1,10 +1,1 @@
-<svg width="204" height="85" xmlns="http://www.w3.org/2000/svg">
-  <g>
-    <title>jscpd v1.0.0</title>
-    <g id="svg_5">
-      <text font-weight="normal" xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="70" id="svg_1" y="58.5" x="0" stroke-width="0" stroke="#000" fill="#007bff">js</text>
-      <text font-weight="normal" xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="70" id="svg_3" y="58.5" x="78" stroke-width="0" stroke="#000" fill="#B200B2">cpd</text>
-      <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="12" id="version" y="82" x="47" stroke-width="0" stroke="#000" fill="#c0c0c0">Copy/Paste Detector</text>
-    </g>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="204" height="85"><g><title>jscpd v1.0.0</title><g id="svg_5"><text id="svg_1" x="0" y="58.5" fill="#007bff" stroke="#000" stroke-width="0" font-family="'Courier New', Courier, monospace" font-size="70" font-weight="normal" text-anchor="start" xml:space="preserve">js</text><text id="svg_3" x="78" y="58.5" fill="#B200B2" stroke="#000" stroke-width="0" font-family="'Courier New', Courier, monospace" font-size="70" font-weight="normal" text-anchor="start" xml:space="preserve">cpd</text><text id="version" x="47" y="82" fill="silver" stroke="#000" stroke-width="0" font-family="'Courier New', Courier, monospace" font-size="12" text-anchor="start" xml:space="preserve">Copy/Paste Detector</text></g></g></svg>
